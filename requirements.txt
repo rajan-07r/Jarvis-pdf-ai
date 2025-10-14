@@ -3,6 +3,7 @@ pymupdf
 langchain
 langchain-community
 faiss-cpu
-pip install --upgrade google-generativeai
+upgrade google-generativeai
 sentence-transformers
+
 
